@@ -1,0 +1,36 @@
+_repo: Crucial-Instances_7516
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Olivieri, David
+    - Wharton, Edith Newbold Jones
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+description: 'Wharton''s second short story collection (1901) includes witty and perceptive
+  takes on the wealthy and cultured, such as &#147;The Angel at the Grave, &#147;The
+  Recovery, &#147;The Copy: A Dialogue, and &#147;The Rembrandt, as well as forays
+  into the supernatural with &#147;The Duchess at Prayer and &#147;The Moving Finger.'
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7516'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'The Duchess at prayer -- The angel at the grave -- The recovery
+  -- "Copy": a dialogue -- The Rembrandt -- The moving finger -- The confessional.'
+title: Crucial Instances
+url: http://www.gutenberg.org/ebooks/7516
