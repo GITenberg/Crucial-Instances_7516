@@ -1,5 +1,8 @@
 _repo: Crucial-Instances_7516
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wharton, Edith
@@ -17,6 +20,8 @@ description: 'Wharton''s second short story collection (1901) includes witty and
   takes on the wealthy and cultured, such as &#147;The Angel at the Grave, &#147;The
   Recovery, &#147;The Copy: A Dialogue, and &#147;The Rembrandt, as well as forays
   into the supernatural with &#147;The Duchess at Prayer and &#147;The Moving Finger.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7516#Crucial-Instances
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
